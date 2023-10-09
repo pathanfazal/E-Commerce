@@ -1,9 +1,9 @@
 # React E-Commerce App
 
-View My [E-Commerce](https://main--bucolic-youtiao-2b4590.netlify.app/).
+View My [E-Commerce](https://pathanfazal.github.io/E-Commerce/).
 ### Note: This React App is Hosted without Backend As I could not afford to purchase subscription to host with backend But the app is build with Strapi.io Backend which can be seen on linkedIn video I posted to showcase the Overview of the App
 ### LinkedIn Post:
-[E-Commerce](https://pathanfazal.github.io/E-Commerce/).
+[video](https://www.linkedin.com/posts/fazal-pathan_reactjs-ecommerce-webdevelopment-activity-7117206546291261440-yyyf?utm_source=share&utm_medium=member_desktop).
 
 In the project directory, you can run:
 
